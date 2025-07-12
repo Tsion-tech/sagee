@@ -2,3 +2,8 @@ windows command
 dir
 mkdir 
 cd
+
+Linux command
+cd
+rm
+mkdir
