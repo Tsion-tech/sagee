@@ -7,3 +7,4 @@ Linux command
 cd
 rm
 mkdir
+mv
